@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="areaUnits">
+        <item>Square centimetre (cm²)</item>
+        <item>Square metre (m²)</item>
+        <item>Square kilometre (km²)</item>
+        <item>Hectare (ha)</item>
+        <item>Square inch (sq in)</item>
+        <item>Square foot (sq ft)</item>
+        <item>Square yard (sq yd)</item>
+        <item>Square mile (sq mi)</item>
+        <item>Acre (ac)</item>
+    </string-array>
+</resources>

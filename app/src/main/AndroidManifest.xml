@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.niranjsasikumar.simpleunitconverter">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/appicon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/appicon_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SimpleUnitConverter">
+        <activity
+            android:name=".Volume"
+            android:exported="false"
+            android:label="Volume"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Time"
+            android:exported="false"
+            android:label="Time"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Temperature"
+            android:exported="false"
+            android:label="Temperature"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Speed"
+            android:exported="false"
+            android:label="Speed"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mass"
+            android:exported="false"
+            android:label="Mass"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Length"
+            android:exported="false"
+            android:label="Length"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DataStorage"
+            android:exported="false"
+            android:label="Data Storage"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Area"
+            android:exported="false"
+            android:label="Area"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

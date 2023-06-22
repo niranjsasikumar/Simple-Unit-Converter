@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="massUnits">
+        <item>Milligram (mg)</item>
+        <item>Gram (g)</item>
+        <item>Kilogram (kg)</item>
+        <item>Tonne / Metric ton (t)</item>
+        <item>Ounce (oz)</item>
+        <item>Pound (lb)</item>
+        <item>US ton</item>
+        <item>Imperial ton</item>
+    </string-array>
+</resources>

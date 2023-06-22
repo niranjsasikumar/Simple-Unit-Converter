@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lengthUnits">
+        <item>Nanometre (nm)</item>
+        <item>Micrometre (μm)</item>
+        <item>Millimetre (mm)</item>
+        <item>Centimetre (cm)</item>
+        <item>Metre (m)</item>
+        <item>Kilometre (km)</item>
+        <item>Inch (in)</item>
+        <item>Foot (ft)</item>
+        <item>Yard (yd)</item>
+        <item>Mile (mi)</item>
+        <item>Nautical mile (M, NM, nmi)</item>
+    </string-array>
+</resources>

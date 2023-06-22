@@ -1,0 +1,26 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sasik/AndroidStudioProjects/SimpleUnitConverter/app/src/main/res/layout/activity_area.xml" value="0.264" />
+        <entry key="..\:/Users/sasik/AndroidStudioProjects/SimpleUnitConverter/app/src/main/res/layout/activity_digital_storage.xml" value="0.2" />
+        <entry key="..\:/Users/sasik/AndroidStudioProjects/SimpleUnitConverter/app/src/main/res/layout/activity_length.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/sasik/AndroidStudioProjects/SimpleUnitConverter/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/sasik/AndroidStudioProjects/SimpleUnitConverter/app/src/main/res/layout/activity_mass.xml" value="0.2" />
+        <entry key="..\:/Users/sasik/AndroidStudioProjects/SimpleUnitConverter/app/src/main/res/layout/activity_speed.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/sasik/AndroidStudioProjects/SimpleUnitConverter/app/src/main/res/layout/activity_temperature.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/sasik/AndroidStudioProjects/SimpleUnitConverter/app/src/main/res/layout/activity_time.xml" value="0.2" />
+        <entry key="..\:/Users/sasik/AndroidStudioProjects/SimpleUnitConverter/app/src/main/res/layout/activity_volume.xml" value="0.2" />
+        <entry key="..\:/Users/sasik/AndroidStudioProjects/SimpleUnitConverter/app/src/main/res/mipmap-anydpi-v26/appIcon.xml" value="0.21837606837606838" />
+        <entry key="..\:/Users/sasik/AndroidStudioProjects/SimpleUnitConverter/app/src/main/res/mipmap-anydpi-v26/appIcon_round.xml" value="0.11752136752136752" />
+        <entry key="..\:/Users/sasik/AndroidStudioProjects/SimpleUnitConverter/app/src/main/res/mipmap-anydpi-v26/appicon.xml" value="0.11752136752136752" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

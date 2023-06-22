@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="speedUnits">
+        <item>Metre per second (m/s)</item>
+        <item>Kilometre per hour (km/h)</item>
+        <item>Foot per second (ft/s)</item>
+        <item>Miles per hour (mph)</item>
+        <item>Knot (kn, kt)</item>
+    </string-array>
+</resources>

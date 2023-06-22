@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="volumeUnits">
+        <item>Cubic centimetre (cm³, cc)</item>
+        <item>Cubic metre (m³)</item>
+        <item>Millilitre (mL)</item>
+        <item>Litre (L)</item>
+        <item>Cubic inch (in³, cu in)</item>
+        <item>Cubic foot (ft³, cu ft)</item>
+        <item>US Teaspoon (tsp)</item>
+        <item>US Tablespoon (tbsp)</item>
+        <item>US fluid ounce (fl oz)</item>
+        <item>US cup (c)</item>
+        <item>US legal cup</item>
+        <item>US liquid pint (pt)</item>
+        <item>US liquid quart (qt)</item>
+        <item>US liquid gallon (gal)</item>
+        <item>Imperial fluid ounce (fl oz)</item>
+        <item>Imperial pint (pt)</item>
+        <item>Imperial quart (qt)</item>
+        <item>Imperial gallon (gal)</item>
+    </string-array>
+</resources>
